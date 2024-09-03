@@ -1,0 +1,22 @@
+
+body.light {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  body.dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .course-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  nav {
+    gap: 20px ;
+    display: flex;
+    flex-direction: row;
+  }
